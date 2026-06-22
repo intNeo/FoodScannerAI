@@ -1,0 +1,11 @@
+torch>=1.9.0
+torchvision>=0.10.0
+gradio
+ipywidgets
+matplotlib
+seaborn
+numpy
+tqdm
+scikit-learn
+pillow
+timm
